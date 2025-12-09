@@ -11,5 +11,6 @@ Link: https://insights.stackoverflow.com/survey
 4. Choose the inputs using the select boxes and the sliders
 5. Click on Predict Salary to see the predicted annual compensation in dollars based on the input.
 
+streamlit run "Python Files\app.py" 
 
 
